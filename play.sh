@@ -1,0 +1,1 @@
+cvlc /home/pi/Documents/test.wav --play-and-exit

@@ -1,0 +1,6 @@
+sudo apt-get install libncurses5-dev libncursesw5-dev
+sudo apt-get install python3-pyaudio
+sudo apt-get install python-pyaudio
+sudo apt-get install vlc
+sudo apt-get install mpg123
+sudo apt-get install lame
